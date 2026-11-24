@@ -1,0 +1,17 @@
+{
+  "name": "E Traders \u2014 Daraz Business Manager",
+  "short_name": "E Traders",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#f85606",
+  "description": "Manage Daraz orders, supplier credit and payments.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
